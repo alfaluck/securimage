@@ -1,7 +1,8 @@
 {
     "name": "alfaluck/securimage",
+    "version": "5.0.0-alpha",
     "type": "library",
-    "description": "PHP CAPTCHA Library",
+    "description": "Maintained fork of the Securimage package.",
     "keywords": ["captcha","security","forms","anti-spam"],
     "homepage": "https://github.com/dapphp/securimage",
     "license": "BSD-3-Clause",
