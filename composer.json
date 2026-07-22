@@ -1,5 +1,5 @@
 {
-    "name": "dapphp/securimage",
+    "name": "alfaluck/securimage",
     "type": "library",
     "description": "PHP CAPTCHA Library",
     "keywords": ["captcha","security","forms","anti-spam"],
@@ -12,7 +12,7 @@
         }
     ],
     "require": {
-        "php": ">=5.4",
+        "php": ">=7.0",
         "ext-gd": "*"
     },
     "suggest": {
