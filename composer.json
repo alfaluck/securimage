@@ -1,6 +1,6 @@
 {
     "name": "alfaluck/securimage",
-    "version": "5.0.0-alpha",
+    "version": "5.0.0-dev",
     "type": "library",
     "description": "Maintained fork of the Securimage package.",
     "keywords": ["captcha","security","forms","anti-spam"],
