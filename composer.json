@@ -1,5 +1,5 @@
 {
-    "name": "alfaluck/securimage",
+    "name": "dapphp/securimage",
     "version": "5.0.0-dev",
     "type": "library",
     "description": "Maintained fork of the Securimage package.",
